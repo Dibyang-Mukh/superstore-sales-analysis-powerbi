@@ -49,7 +49,7 @@ Evaluates profit contribution by sub-category and explores the relationship betw
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard](project3(1).jpg)
 
 ### Category Analysis
 

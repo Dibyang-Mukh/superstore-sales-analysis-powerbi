@@ -53,15 +53,15 @@ Evaluates profit contribution by sub-category and explores the relationship betw
 
 ### Category Analysis
 
-![Category Analysis](project3(2).jpg)
+![Category Analysis](Project3(2).jpg)
 
 ### Regional Analysis
 
-![Regional Analysis](project3(3).jpg)
+![Regional Analysis](Project3(3).jpg)
 
 ### Profitability Analysis
 
-![Profitability Analysis](project3(4).jpg)
+![Profitability Analysis](Project3(4).jpg)
 
 ---
 

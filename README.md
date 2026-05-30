@@ -1,60 +1,92 @@
-📊 Sales & Profit Analysis Dashboard
-Project Overview
+# 📊 Sales & Profit Analysis Dashboard
 
-This project presents an interactive Sales & Profit Analysis Dashboard developed using Python, Power BI, and DAX. The objective is to analyze retail sales data and generate business insights related to revenue, profitability, customer segments, product categories, and regional performance.
+## 📌 Overview
 
-The dataset was first preprocessed using Python and then visualized through a multi-page Power BI dashboard.
+This project showcases an interactive **Sales & Profit Analysis Dashboard** built using **Power BI and DAX**. The dashboard provides insights into sales performance, profitability, customer segments, product categories, and regional trends to support data-driven business decisions.
 
-🚀 Project Workflow
-Data Collection
-Data Cleaning & Preprocessing using Python (Pandas)
-Data Transformation
-Data Modeling in Power BI
-DAX KPI Development
-Dashboard Design & Visualization
-Business Insight Generation
-🛠 Tools & Technologies
-Python
-Pandas
-NumPy
-Power BI
-DAX
-Microsoft Excel
-📈 Dashboard Pages
-1. Executive Sales & Profit Overview
+---
 
-Provides a high-level summary of business performance through key KPIs including:
+## 🛠 Tools Used
 
-Total Sales
-Total Profit
-Profit Margin
-Category-wise Sales
-Customer Segment Analysis
-2. Category & Sub-Category Analysis
+* Power BI
+* DAX
+* Python (Data Preprocessing)
+* Microsoft Excel
 
-Analyzes product performance across:
+---
 
-Categories
-Sub-Categories
-Revenue Contribution
-3. Regional Analysis
+## 📈 Dashboard Pages
 
-Examines:
+### Executive Sales & Profit Overview
 
-Sales by State
-Profit by Region
-Geographic Business Performance
-4. Profitability Analysis
+Provides a high-level overview of business performance through key KPIs including Total Sales, Total Profit, and Profit Margin.
 
-Focuses on:
+### Category & Sub-Category Analysis
 
-Profit by Sub-Category
-Discount vs Profit Relationship
-Identification of Loss-Making Products
-🔍 Key Insights
-Technology generated the highest sales revenue.
-Consumer customers contributed the largest share of total sales.
-West region achieved the highest profit.
-Certain sub-categories generated losses despite strong sales performance.
-Discounting significantly impacted profitability in some product groups.# superstore-sales-analysis-powerbi
-Sales and Profit Analysis Dashboard using Python (Pandas) for data cleaning and Power BI for interactive business insights and visualization.
+Analyzes sales performance across product categories and sub-categories to identify top-performing products and revenue drivers.
+
+### Regional Sales & Profit Analysis
+
+Examines geographic sales distribution and regional profitability using interactive visualizations.
+
+### Profitability & Discount Impact Analysis
+
+Evaluates profit contribution by sub-category and explores the relationship between discounts and profitability.
+
+---
+
+## 🔍 Key Insights
+
+* Technology generated the highest sales revenue.
+* Consumer customers contributed the largest share of total sales.
+* The West region recorded the highest profit.
+* Several sub-categories generated losses despite strong sales performance.
+* Discount levels significantly impacted profitability.
+
+---
+
+## 📷 Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](screenshots/executive_dashboard.png)
+
+### Category Analysis
+
+![Category Analysis](screenshots/category_analysis.png)
+
+### Regional Analysis
+
+![Regional Analysis](screenshots/regional_analysis.png)
+
+### Profitability Analysis
+
+![Profitability Analysis](screenshots/profitability_analysis.png)
+
+---
+
+## 📁 Repository Contents
+
+* Sales_Profit_Dashboard.pbix
+* Dashboard Screenshots
+* README.md
+
+---
+
+## 🎯 Skills Demonstrated
+
+* Data Analysis
+* Business Intelligence
+* Dashboard Development
+* Data Visualization
+* KPI Tracking
+* DAX Measures
+* Business Insights Generation
+
+---
+
+## 👨‍💻 Author
+
+Dibyangshu Mukherjee
+
+Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
